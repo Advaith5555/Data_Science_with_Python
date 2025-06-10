@@ -1,0 +1,6 @@
+name,department,marks,passed,grades
+Advaith,CS,85,True,A
+Adil,IT,90,True,A
+ram,CS,78,True,B
+sham,IT,88,True,A
+bob,CS,76,False,B
